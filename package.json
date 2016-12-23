@@ -1,0 +1,26 @@
+{
+  "name": "testophotography",
+  "version": "1.0.0",
+  "description": "Photography website",
+  "main": "nodemon ./server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "photography"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "mocha": "^3.2.0",
+    "node-sass": "^4.1.1",
+    "node-sass-middleware": "^0.10.0",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
